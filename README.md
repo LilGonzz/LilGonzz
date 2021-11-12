@@ -3,7 +3,14 @@
 
 ### I'm from Brazil, and I've 25 years in the day that i'm write this quick review of myself
 
+### Today I'm working with freelancers jobs here in my city and i'm still looking for a stable job.
 
+### For my projects I'm using(and learning):
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+
+### 
 <!--
 **LilGonzz/LilGonzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
