@@ -6,10 +6,13 @@
 ### Today I'm working with freelancers jobs here in my city and i'm still looking for a stable job.
 
 ### For my projects I'm using(and learning):
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
 
+### You can find me here(and see my little dog on instagram if you like)
+<div>
+  <a href="https://www.instagram.com/lucasgonzzagas/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000? style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
-### 
+</div>
 <!--
 **LilGonzz/LilGonzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
