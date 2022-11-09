@@ -3,13 +3,8 @@
 My name is Lucas, but you can call me "LilGonzz" if you want
 I'm from Brazil, and I've 25 years in the day that i'm write this quick review of myself
 Today I'm working with freelancers jobs here in my city and i'm still looking for a stable job.
-In my free time I spend time playing games (my favorites are shooters and rougue-like), reanding books and hang out with my girlfriend and walking with my dog. 
+In my free time I spend time playing games (my favorites are shooters and rougue-like), reanding books and hang out with my girlfriend and walking with my dog) 
 
-#### For my projects I'm using(and learning):
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  width="50" height="50"/>
-
-#### I'm learning but not using in a project yet:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"  width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"  width="50" height="50"/>
 #### You can find me here(and see my little dog on instagram if you like :dog:)
 <div>
   <a href="https://www.instagram.com/lucasgonzzagas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
